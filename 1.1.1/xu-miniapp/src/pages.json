@@ -1,0 +1,32 @@
+{
+  "pages": [
+    {
+      "path": "pages/index/index",
+      "style": {
+        "navigationBarTitleText": "蓄",
+        "navigationBarTextStyle": "white",
+        "navigationBarBackgroundColor": "#09141D",
+        "backgroundColor": "#09141D",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/battle/BattlePage",
+      "style": {
+        "navigationBarTitleText": "蓄 · 对局",
+        "navigationBarTextStyle": "white",
+        "navigationBarBackgroundColor": "#0A1620",
+        "backgroundColor": "#0A1620",
+        "navigationStyle": "custom",
+        "pageOrientation": "landscape",
+        "disableScroll": true
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "蓄",
+    "navigationBarBackgroundColor": "#09141D",
+    "backgroundColor": "#09141D"
+  }
+}

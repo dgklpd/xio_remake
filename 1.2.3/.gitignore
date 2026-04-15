@@ -1,0 +1,23 @@
+# frontend
+xu-miniapp/node_modules/
+xu-miniapp/dist/
+xu-miniapp/.hbuilderx/
+xu-miniapp/project.private.config.json
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# backend runtime
+backend/server.out.log
+backend/server.err.log
+
+# system
+.DS_Store
+Thumbs.db
